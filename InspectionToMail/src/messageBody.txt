@@ -1,0 +1,22 @@
+○○○○　株式会社
+△△△部　□□□課
+　○○○　○○　様
+
+
+平素よりお世話になっております。
+{DATE}時点での測定数は、{COUNT}回 です。
+なお、月末時点での推定回数は、{PREDICTED_COUNT}回 です。
+よろしくお願いいたします。
+
+                      Kazuki Maehara
+
+
+--------Data log below--------
+Run at {FORMAT_DATE}
+Next:{NEXT_DAY_TO_MAIL}
+Powered by Python:{PYTHON_VERSION}
+File-name list:
+{FILE_NAME_LIST}
+{CUMULATIVE}
+RND:{RANDOM_NUMBER}
+------------------------------
